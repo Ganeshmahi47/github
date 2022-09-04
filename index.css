@@ -1,0 +1,66 @@
+
+
+.first{
+    
+    background-color: black;
+    padding: 20px;
+    
+   
+}
+
+.box-port1{
+    
+
+   
+    color: rgba(255, 255, 255, 0.932);
+    display:flex;
+    
+    
+}
+.box-port2{
+    display:flex;
+    color:rgba(255, 255, 255, 0.867);
+    padding: 10px 40px 0px 400px;
+    letter-spacing: 2px;   
+}
+
+
+.col-md-3{
+    background-color: black;
+    padding: 500px 20px 0px 10px;
+    color:brown;
+    margin: 55px 60px 0px 70px ;
+    border-radius: 20px;
+}
+
+#search{
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px 400px 10px 10px ;
+    color:rgb(231, 231, 231);
+    margin: 55px 70px 0px 150px ;
+    display:flex;
+    letter-spacing: 5px;
+}
+
+input::placeholder{
+    font-weight:bold;
+}
+
+.col-md{
+    margin: 100px 60px 60px 60px;
+    background-color: black;
+    padding: 70px 70px 50px 70px;
+    border-radius: 10px;
+}
+
+.col-md-11{
+    margin: 70px 60px 70px 40px;
+    background-color: rgb(0, 0, 0);
+    padding: 80px 70px 80px 70px;
+    border-radius: 10px;
+}
+
+body{
+    background-color:rgb(211, 233, 179)
+}
